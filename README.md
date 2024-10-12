@@ -44,8 +44,8 @@ Get a specific Animal
 
 Create a new Animal
 
-`POST /students/new`
-`http://localhost:8080/students/new` --data '{"name": Sparrow, "scientificname" Passeridae: "species": bird, "habitat": rain forests, "description": }'
+`POST /animals/new`
+`http://localhost:8080/animals/new` --data '{"name": Sparrow, "scientificname" Passeridae: "species": bird, "habitat": rain forests, "description": }'
 
 Response 
 
